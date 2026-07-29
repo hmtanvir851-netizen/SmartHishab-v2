@@ -1,0 +1,6 @@
+{
+  "name": "SmartHishab",
+  "description": "Smart Money Manager with AI Voice/Text Input, Multi-currency, Debt Tracker & Budget Alerts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
